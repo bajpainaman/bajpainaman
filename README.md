@@ -1,7 +1,7 @@
 # Hi there, I'm Naman Bajpai 👋
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Classcut Video Search Engine](https://github.com/bajpainaman/learnify) and [Encryptech (Mycelium)](https://encryptech.ai)
+- 🔭 I’m currently working on [MPX Video Search Engine](https://github.com/bajpainaman/learnify) and [Encryptech (Mycelium)](https://encryptech.ai)
 - 🌱 I’m learning **Fully Homomorphic Encryption, GraphRAG, and Federated Learning**
 - 👯 I’m looking to collaborate on **decentralized AI, blockchain, and Federated Learning projects**
 - 🤔 I’m looking for help with **advanced homomorphic encryption techniques**
