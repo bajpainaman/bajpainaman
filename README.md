@@ -1,7 +1,7 @@
 # Hi there, I'm Naman Bajpai 👋
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Classcut Video Search Engine](https://github.com/bajpainaman/classcut) and [Encryptech (Mycelium)](https://github.com/bajpainaman/mycelium)
+- 🔭 I’m currently working on [Classcut Video Search Engine](https://github.com/bajpainaman/learnify) and [Encryptech (Mycelium)](https://encryptech.ai)
 - 🌱 I’m learning **Fully Homomorphic Encryption, GraphRAG, and Federated Learning**
 - 👯 I’m looking to collaborate on **decentralized AI, blockchain, and Federated Learning projects**
 - 🤔 I’m looking for help with **advanced homomorphic encryption techniques**
@@ -36,9 +36,8 @@
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Decentralized AI Systems](https://yourblog.com/post/decentralized-ai)
-- [The Role of Federated Learning in Data Privacy](https://yourblog.com/post/federated-learning)
-- [Exploring Fully Homomorphic Encryption](https://yourblog.com/post/fhe-intro)
+- [Building Decentralized AI Systems](https://namansmind.blogspot.com/2024/11/building-decentralized-ai-systems.html)
+- [The Role of Federated Learning in Data Privacy](https://namansmind.blogspot.com/2024/11/the-role-of-federated-learning-in-data.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Support Me
