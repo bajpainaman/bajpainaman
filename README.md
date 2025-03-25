@@ -23,11 +23,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)  
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-## 📈 GitHub Stats
-![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bajpainaman&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bajpainaman&theme=monokai)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bajpainaman/)  
