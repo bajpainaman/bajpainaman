@@ -1,34 +1,78 @@
-# Hi there, I'm Naman Bajpai 👋
+<!--
+  ███╗   ██╗ █████╗ ███╗   ██╗ █████╗ ██╗   ██╗██╗██╗     ██╗██╗██╗██╗
+  ████╗  ██║██╔══██╗████╗  ██║██╔══██╗██║   ██║██║██║     ██║██║██║██║
+  ██╔██╗ ██║███████║██╔██╗ ██║███████║██║   ██║██║██║     ██║██║██║██║
+  ██║╚██╗██║██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝██║██║     ██║██║██║██║
+  ██║ ╚████║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝ ██║███████╗██║██║██║██║
+  ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝╚═╝╚═╝╚═╝
+-->
+
+# Hi there, I’m **Naman Bajpai** 👋  
+> Computer Science at Drexel • Founder & CTO @Encryptech/Mycelium • Rocketry Enthusiast  
+
+---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [MPX Video Search Engine](https://github.com/bajpainaman/learnify) and [Encryptech (Mycelium)](https://encryptech.ai)
-- 🌱 I’m learning **Fully Homomorphic Encryption, GraphRAG, and Federated Learning**
-- 👯 I’m looking to collaborate on **decentralized AI, blockchain, and Federated Learning projects**
-- 🤔 I’m looking for help with **advanced homomorphic encryption techniques**
-- 💬 Ask me about **machine learning, blockchain, and aerospace engineering**
-- 📫 How to reach me: [naman.bajpai@drexel.edu](mailto:naman.bajpai@drexel.edu)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: At age 15, I led the development of a two-stage sub-orbital rocket, Hawk-1, capable of carrying payloads up to 30 kg.
+- 🔭 **Working on**  
+  - [MPX Video Search Engine](https://github.com/bajpainaman/learnify) – semantic search + timestamp clipping  
+  - [Encryptech (Mycelium)](https://encryptech.ai) – privacy-preserving AI on Avalanche + FHE  
+- 🌱 **Learning**: Fully Homomorphic Encryption • Graph-RAG • Federated Learning • Differential Privacy  
+- 👯 **Collaborating on**: decentralized AI • blockchain protocols • privacy-first ML systems  
+- 💬 **Ask me about**: machine learning, blockchain engineering, CFD rocket design, aerospace systems  
+- 📫 **Reach me**: [naman.bajpai@drexel.edu](mailto:naman.bajpai@drexel.edu)  
+- 😄 **Pronouns**: He/Him  
+- ⚡ **Fun fact**: At 15 I led Hawk-1, a two-stage sub-orbital rocket, up to 230 km altitude  
+
+---
+
+## 🏆 Achievements & Awards
+- 🏅 **Second Place**, ICPC North America Qualifier (Drexel, 2024) – solved 8/10 problems under contest conditions  
+- 🚀 **Hawk-1 Rocket**, led multi-disciplinary team to design & test a 30 kg payload sub-orbital launch vehicle  
+- 🌕 **Indian Lunar Mission Contribution**, research on nitrocellulose propellant adopted for ISRO’s Chandrayaan program  
+- 🎙️ **TEDx Speaker** on “Sustainable Aerospace” at TEDx Delhi (’22)  
+- 💡 **Founder**, Classcut – flipped-classroom ed-tech platform used by 5K+ students globally  
+- 💻 **AI Intern**, Beckn Protocol – built decentralized AI transaction framework with 30+ open-source contributors  
+- 📚 **Published** “A Perspective on Decentralizing AI” (MIT Media Lab) – differential privacy + federated learning focus  
+
+---
+
+## 💼 Featured Projects
+
+| Project                       | Description                                                                                      | Tech Stack                              |
+|-------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
+| **DRI: Dynamic Reflective Index** | On-chain token pegged to real-world asset indices using oracle-aggregation & PSM controls         | Solidity • Chainlink • Hardhat           |
+| **Sciatic Protocol**          | Open, decentralized ML-service registry; federated learning layer atop Beckn Protocol            | Python • FastAPI • Docker • Redis        |
+| **MPX Video Search**          | End-to-end video indexer & retriever with auto-clip creation                                      | Python • Whisper • Elasticsearch         |
+| **Encryptech/Mycelium**       | Privacy-preserving AI platform: FHE + DP + Avalanche L1                                          | Rust • Zama FHE • AWS Nitro • Opacus     |
+| **Beckn Developer Assistant** | RAG-based AI agent scraping GitHub/Discord for turnkey Beckn integration                           | LangChain • ChromaDB • Oobabooga UI      |
+
+---
 
 ## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)  
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)  
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />  
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />  
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-FHE-5C2D91?style=flat&logo=homomorphic-encryption&logoColor=white" />  
+</div>
 
+---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bajpainaman/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/bajpai_naman)  
-[![Personal Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://namanbajpai.com)
+## 📈 GitHub Stats
+
+![Naman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bajpainaman&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bajpainaman&layout=compact&theme=radical)
+
+---
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -36,10 +80,21 @@
 - [The Role of Federated Learning in Data Privacy](https://namansmind.blogspot.com/2024/11/the-role-of-federated-learning-in-data.html)
 <!-- BLOG-POST-LIST:END -->
 
-## 🤝 Support Me
-If you find my projects useful, consider giving them a ⭐️ on [GitHub](https://github.com/bajpainaman).
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bajpainaman/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/bajpai_naman"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://namanbajpai.com"><img src="https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white" /></a>
+</p>
 
 ---
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=bajpainaman.bajpainaman)
+> “Shoot for the moon. Even if you miss, you’ll land among the stars.” ✨  
+> — Inspired by Norman Vincent Peale  
 
+---
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=bajpainaman.bajpainaman)
