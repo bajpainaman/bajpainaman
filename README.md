@@ -28,8 +28,7 @@
 ## 🏆 Achievements & Awards
 - 🏅 **Second Place**, ICPC North America Qualifier (Drexel, 2024) – solved 8/10 problems under contest conditions  
 - 🚀 **Hawk-1 Rocket**, led multi-disciplinary team to design & test a 30 kg payload sub-orbital launch vehicle  
-- 🌕 **Indian Lunar Mission Contribution**, research on nitrocellulose propellant adopted for ISRO’s Chandrayaan program  
-- 🎙️ **TEDx Speaker** on “Sustainable Aerospace” at TEDx Delhi (’22)  
+- 🎙️ **TEDx Speaker** on “Sustainable Aerospace” at TEDx (’22)  
 - 💡 **Founder**, Classcut – flipped-classroom ed-tech platform used by 5K+ students globally  
 - 💻 **AI Intern**, Beckn Protocol – built decentralized AI transaction framework with 30+ open-source contributors  
 - 📚 **Published** “A Perspective on Decentralizing AI” (MIT Media Lab) – differential privacy + federated learning focus  
