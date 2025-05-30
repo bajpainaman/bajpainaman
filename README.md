@@ -1,11 +1,11 @@
-<!--
-  ███╗   ██╗ █████╗ ███╗   ██╗ █████╗ ██╗   ██╗██╗██╗     ██╗██╗██╗██╗
-  ████╗  ██║██╔══██╗████╗  ██║██╔══██╗██║   ██║██║██║     ██║██║██║██║
-  ██╔██╗ ██║███████║██╔██╗ ██║███████║██║   ██║██║██║     ██║██║██║██║
-  ██║╚██╗██║██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝██║██║     ██║██║██║██║
-  ██║ ╚████║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝ ██║███████╗██║██║██║██║
-  ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝╚═╝╚═╝╚═╝
--->
+███▄▄▄▄      ▄████████   ▄▄▄▄███▄▄▄▄      ▄████████ ███▄▄▄▄  
+███▀▀▀██▄   ███    ███ ▄██▀▀▀███▀▀▀██▄   ███    ███ ███▀▀▀██▄
+███   ███   ███    ███ ███   ███   ███   ███    ███ ███   ███
+███   ███   ███    ███ ███   ███   ███   ███    ███ ███   ███
+███   ███ ▀███████████ ███   ███   ███ ▀███████████ ███   ███
+███   ███   ███    ███ ███   ███   ███   ███    ███ ███   ███
+███   ███   ███    ███ ███   ███   ███   ███    ███ ███   ███
+ ▀█   █▀    ███    █▀   ▀█   ███   █▀    ███    █▀   ▀█   █▀ 
 
 # Hi there, I’m **Naman Bajpai** 👋  
 > Computer Science at Drexel • Founder & CTO @Encryptech/Mycelium • Rocketry Enthusiast  
@@ -28,10 +28,10 @@
 ## 🏆 Achievements & Awards
 - 🏅 **Second Place**, ICPC North America Qualifier (Drexel, 2024) – solved 8/10 problems under contest conditions  
 - 🚀 **Hawk-1 Rocket**, led multi-disciplinary team to design & test a 30 kg payload sub-orbital launch vehicle  
-- 🎙️ **TEDx Speaker** on “Sustainable Aerospace” at TEDx (’22)  
-- 💡 **Founder**, Classcut – flipped-classroom ed-tech platform used by 5K+ students globally  
-- 💻 **AI Intern**, Beckn Protocol – built decentralized AI transaction framework with 30+ open-source contributors  
-- 📚 **Published** “A Perspective on Decentralizing AI” (MIT Media Lab) – differential privacy + federated learning focus  
+- 🎙️ **TEDx Speaker**  at TEDx (’22)  
+- 💡 **Founder**, Classcut – flipped-classroom ed-tech platform 
+- 💻 **AI Intern**, Beckn Protocol – built decentralized AI transaction framework 
+
 
 ---
 
@@ -39,7 +39,6 @@
 
 | Project                       | Description                                                                                      | Tech Stack                              |
 |-------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
-| **DRI: Dynamic Reflective Index** | On-chain token pegged to real-world asset indices using oracle-aggregation & PSM controls         | Solidity • Chainlink • Hardhat           |
 | **Sciatic Protocol**          | Open, decentralized ML-service registry; federated learning layer atop Beckn Protocol            | Python • FastAPI • Docker • Redis        |
 | **MPX Video Search**          | End-to-end video indexer & retriever with auto-clip creation                                      | Python • Whisper • Elasticsearch         |
 | **Encryptech/Mycelium**       | Privacy-preserving AI platform: FHE + DP + Avalanche L1                                          | Rust • Zama FHE • AWS Nitro • Opacus     |
