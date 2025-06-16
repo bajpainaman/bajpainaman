@@ -17,12 +17,12 @@
 ---
 
 ## 🏆 Achievements & Awards
+-🏅 **2nd Place**, HackMIT Codebase Challenge & other hackathon awards
 - 🏅 **Second Place**, ICPC North America Qualifier (Drexel, 2024) – solved 8/10 problems under contest conditions  
 - 🚀 **Hawk-1 Rocket**, led multi-disciplinary team to design & test a 30 kg payload sub-orbital launch vehicle  
 - 🎙️ **TEDx Speaker**  at TEDx (’22)  
-- 💡 **Founder**, Classcut – flipped-classroom ed-tech platform 
-- 💻 **AI Intern**, Beckn Protocol – built decentralized AI transaction framework 
-
+- 💡 **Founder**, Classcut – flipped-classroom ed-tech platform  
+- 💻 **AI Intern**, Beckn Protocol – built decentralized AI transaction framework  
 
 ---
 
@@ -30,29 +30,18 @@
 
 | Project                       | Description                                                                                      | Tech Stack                              |
 |-------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
-| **Sciatic Protocol**          | Open, decentralized ML-service registry; federated learning layer atop Beckn Protocol            | Python • FastAPI • Docker • Redis        |
-| **MPX Video Search**          | End-to-end video indexer & retriever with auto-clip creation                                      | Python • Whisper • Elasticsearch         |
-| **Encryptech/Mycelium**       | Privacy-preserving AI platform: FHE + DP + Avalanche L1                                          | Rust • Zama FHE • AWS Nitro • Opacus     |
-| **Beckn Developer Assistant** | RAG-based AI agent scraping GitHub/Discord for turnkey Beckn integration                           | LangChain • ChromaDB • Oobabooga UI      |
+| **Sciatic Protocol**          | Open, decentralized ML-service registry; federated learning layer atop Beckn Protocol            | Python • FastAPI • Docker • Redis       |
+| **MPX Video Search**          | End-to-end video indexer & retriever with auto-clip creation                                     | Python • Whisper • Elasticsearch        |
+| **Encryptech/Mycelium**       | Privacy-preserving AI platform: FHE + DP + Avalanche L1                                          | Rust • Zama FHE • AWS Nitro • Opacus    |
+| **Beckn Developer Assistant** | RAG-based AI agent scraping GitHub/Discord for turnkey Beckn integration                         | LangChain • ChromaDB • Oobabooga UI     |
 
 ---
 
-## 🛠️ Technologies & Tools
 
-<div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />  
-  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />  
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-FHE-5C2D91?style=flat&logo=homomorphic-encryption&logoColor=white" />  
-</div>
+
+✉️ [naman.bajpai@drexel.edu](mailto:naman.bajpai@drexel.edu) | 🔗 [linkedin.com/in/bajpainaman](https://linkedin.com/in/bajpainaman) | 🐦 [@bajpai_naman](https://twitter.com/bajpai_naman)
+
+
 
 ---
 
