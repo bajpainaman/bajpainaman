@@ -39,7 +39,7 @@
 
 
 
-✉️ [naman.bajpai@drexel.edu](mailto:naman.bajpai@drexel.edu) | 🔗 [linkedin.com/in/bajpainaman](https://linkedin.com/in/bajpainaman) | 🐦 [@bajpai_naman](https://twitter.com/bajpai_naman)
+✉️ [naman.bajpai@drexel.edu](mailto:naman.bajpai@drexel.edu) | 🔗 [linkedin.com/in/bajpainaman](https://linkedin.com/in/bajpainaman) | 🐦 [@ndaymnam](https://x.com/ndaymnam)
 
 
 
