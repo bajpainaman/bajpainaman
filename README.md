@@ -6,7 +6,7 @@ I'm a Computer Science student at Drexel University and CTO at a stealth startup
 
 Currently exploring synthetic assets, RWAs (Real World Assets), and programmable private credit to make DeFi more liquid, deterministic, and permissionless.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bajpainaman&theme=radical)](https://git.io/streak-stats)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bajpainaman&layout=compact&theme=radical)](https://github.com/bajpainaman)
 
 ## Skills
