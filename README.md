@@ -45,7 +45,7 @@ Here are some of my key open-source crypto projects:
 ## Get in Touch
 - **Website:** [namanbajpai.com](https://namanbajpai.com)
 - **LinkedIn:** [linkedin.com/in/bajpainaman](https://www.linkedin.com/in/bajpainaman)
-- **X (Twitter):** [@ndaymnam](https://x.com/ndaymnam)
+- **X (Twitter):** [@ndaymnam](https://x.com/defibagholder)
 - **Email:** naman.bajpai@drexel.edu
 - **Location:** United States (Drexel University, Philadelphia)
 
