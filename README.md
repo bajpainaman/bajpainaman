@@ -55,4 +55,4 @@ Feel free to reach out for collaborations on blockchain, DeFi, or crypto open-so
 
 *Last updated: October 2025*  
 [![GitHub Followers](https://img.shields.io/github/followers/bajpainaman?style=social)](https://github.com/bajpainaman)  
-[![X Followers](https://img.shields.io/twitter/follow/ndaymnam?style=social)](https://x.com/ndaymnam)
+[![X Followers](https://img.shields.io/twitter/follow/defibagholder?style=social)](https://x.com/ndaymnam)
