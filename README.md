@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://www.bletchleypark.org.uk/wp-content/uploads/2024/10/Bletchley-Park-Mansion-Courtesy-of-Bletchley-Park-Trust-1-scaled.jpg) <!-- Replace with your actual banner image URL -->
 
-I'm a Computer Science student at Drexel University and CTO at a stealth startup building on the Avalanche blockchain. Passionate about blockchain protocols, DeFi innovations, AI/ML integrations for crypto, and open-source development in Web3. My work focuses on scalable on-chain solutions, RWAs (Real World Assets), synthetic assets, and programmable private credit to enhance liquidity, determinism, and permissionless finance in DeFi.
+I'm a Computer Science student at Drexel University. Passionate about blockchain protocols, DeFi innovations, AI/ML integrations for crypto, and open-source development in Web3. My work focuses on scalable on-chain solutions, RWAs (Real World Assets), synthetic assets, and programmable private credit to enhance liquidity, determinism, and permissionless finance in DeFi.
 
 Currently architecting decentralized liquidity protocols, oracle networks, and AI-driven blockchain analytics to push the boundaries of crypto infrastructure.
 
