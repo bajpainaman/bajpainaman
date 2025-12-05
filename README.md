@@ -7,10 +7,14 @@
 I'm a Computer Science student at Drexel University. Passionate about blockchain protocols, DeFi innovations, AI/ML integrations for crypto, and open-source development in Web3. My work focuses on scalable on-chain solutions, RWAs (Real World Assets), synthetic assets, and programmable private credit to enhance liquidity, determinism, and permissionless finance in DeFi.
 
 Currently architecting decentralized liquidity protocols, oracle networks, and AI-driven blockchain analytics to push the boundaries of crypto infrastructure. (Ex: Co-founder @ Encryptech AI, Avalanche Ambassador, TEDx Speaker on Space Tech)
+
+
 <div align="center">
-[![Naman's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bajpainaman&layout=compact&theme=dark&cache_seconds=86400)](https://github.com/bajpainaman)
-[![Naman's Stats](https://github-readme-stats.vercel.app/api?username=bajpainaman&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&cache_seconds=86400)](https://github.com/bajpainaman)
+[![Naman's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bajpainaman&layout=compact&theme=transparent&cache_seconds=604800)](https://github.com/bajpainaman)
+[![Naman's Stats](https://github-readme-stats.vercel.app/api?username=bajpainaman&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&cache_seconds=604800)](https://github.com/bajpainaman)
 </div>
+
+
 
 ## Skills
 - **Languages:** Solidity, Rust, Go, TypeScript, Python, C++, Java
