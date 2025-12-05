@@ -1,12 +1,18 @@
 # Hi, I'm Naman Bajpai 👋
 
-![Profile Banner](https://www.bletchleypark.org.uk/wp-content/uploads/2024/10/Bletchley-Park-Mansion-Courtesy-of-Bletchley-Park-Trust-1-scaled.jpg) <!-- Replace with your actual banner image URL -->
+<div align="center">
+  <img src="https://www.bletchleypark.org.uk/wp-content/uploads/2024/10/Bletchley-Park-Mansion-Courtesy-of-Bletchley-Park-Trust-1-scaled.jpg" alt="Banner" width="100%"/>
+</div>
 
 I'm a Computer Science student at Drexel University. Passionate about blockchain protocols, DeFi innovations, AI/ML integrations for crypto, and open-source development in Web3. My work focuses on scalable on-chain solutions, RWAs (Real World Assets), synthetic assets, and programmable private credit to enhance liquidity, determinism, and permissionless finance in DeFi.
 
-Currently architecting decentralized liquidity protocols, oracle networks, and AI-driven blockchain analytics to push the boundaries of crypto infrastructure.
+Currently architecting decentralized liquidity protocols, oracle networks, and AI-driven blockchain analytics to push the boundaries of crypto infrastructure. (Ex: Co-founder @ Encryptech AI, Avalanche Ambassador, TEDx Speaker on Space Tech)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bajpainaman&layout=compact&theme=radical)](https://github.com/bajpainaman)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bajpainaman&theme=radical)](https://github.com/bajpainaman)
+[![Stats](https://github-readme-stats.vercel.app/api?username=bajpainaman&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/bajpainaman)
+
+![Visitors](https://komarev.com/ghpvc/?username=bajpainaman&color=radical)
 
 ## Skills
 - **Languages:** Solidity, Rust, Go, TypeScript, Python, C++, Java
@@ -19,7 +25,8 @@ Here are some of my key open-source crypto projects:
 
 - **[orbital](https://github.com/bajpainaman/orbital)**  
   The world's first production-ready N-dimensional hyperspherical AMM on a custom Avalanche subnet, based on Paradigm VC research. Consolidates 190+ tokens into 10 pools with 15-150× capital efficiency via hypersphere invariants, tick-based liquidity, multi-hop routing, flash loans, TWAP oracles, and NFT positions. Deployed on ETO Testnet for scalable DeFi with O(n) complexity and gas optimizations.  
-  ![Stars](https://img.shields.io/github/stars/bajpainaman/orbital?style=flat-square) ![Forks](https://img.shields.io/github/forks/bajpainaman/orbital?style=flat-square)
+  ![Stars](https://img.shields.io/github/stars/bajpainaman/orbital?style=flat-square) ![Forks](https://img.shields.io/github/forks/bajpainaman/orbital?style=flat-square)  
+  [Live Demo](https://orbital.eto.xyz) <!-- Add if deployed -->
 
 - **[Avalytics](https://github.com/bajpainaman/Avalytics)**  
   AI-driven blockchain CRM platform for Avalanche ecosystem growth intelligence ("Palantir for Crypto"). Transforms on-chain data into actionable BD insights with AI wallet profiling (Llama 3.1), ML cohort clustering (K-Means, GMM), lead scoring, and auto-sync to Monday.com/Clay/Salesforce. Features query-to-lead pipelines, behavioral analysis, and anomaly detection for VCs, DeFi protocols, and security teams.  
@@ -37,6 +44,14 @@ Here are some of my key open-source crypto projects:
   Hyper-specialized LLM optimization for regional (Indic) data, enhancing AI accessibility for non-English languages in blockchain contexts. Integrates with on-chain data processing for localized DeFi insights, leveraging fine-tuned models for multilingual support.  
   ![Stars](https://img.shields.io/github/stars/bajpainaman/indic-llm-toolkit?style=flat-square) ![Forks](https://img.shields.io/github/forks/bajpainaman/indic-llm-toolkit?style=flat-square)
 
+## Achievements 🚀
+| What | Impact |
+|------|--------|
+| ![HackMIT](https://img.shields.io/badge/HackMIT%202023-2nd%20Place-brightgreen) | Codebase Track win w/ AI video search engine |
+| ![TEDx](https://img.shields.io/badge/TEDx-Space%20Democratization-blue) | Talk on democratizing access to space tech |
+| ![Avalanche](https://img.shields.io/badge/Avalanche-Ambassador-purple) | Backed by Codebase Incubator for RWA/DeFi projects |
+| ICPC Qualifier | Top 10 North America, Drexel CS |
+
 ## Research & Interests
 - Research in blockchain and AI at Drexel University, including protocol architecture, DeFi scalability, and AI applications in crypto.
 - Advocate for permissionless networks: Developing frameworks for oracles, RWAs, and AI-enhanced DeFi to enable seamless, secure on-chain interactions.
@@ -45,14 +60,12 @@ Here are some of my key open-source crypto projects:
 ## Get in Touch
 - **Website:** [namanbajpai.com](https://namanbajpai.com)
 - **LinkedIn:** [linkedin.com/in/bajpainaman](https://www.linkedin.com/in/bajpainaman)
-- **X (Twitter):** [@ndaymnam](https://x.com/defibagholder)
+- **X (Twitter):** [@ndaymnam](https://x.com/defibagholder) <!-- Fixed handle? -->
 - **Email:** naman.bajpai@drexel.edu
 - **Location:** United States (Drexel University, Philadelphia)
 
-Feel free to reach out for collaborations on blockchain, DeFi, or crypto open-source projects! 🚀
+Feel free to reach out for collaborations on blockchain, DeFi, or crypto open-source projects! Let's build the next orbital layer. 🚀
 
 ---
-
-*Last updated: October 2025*  
-[![GitHub Followers](https://img.shields.io/github/followers/bajpainaman?style=social)](https://github.com/bajpainaman)  
-[![X Followers](https://img.shields.io/twitter/follow/defibagholder?style=social)](https://x.com/ndaymnam)
+*Last updated: December 2025*  
+[![GitHub Followers](https://img.shields.io/github/followers/bajpainaman?style=social)](https://github.com/bajpainaman) [![X Followers](https://img.shields.io/twitter/follow/defibagholder?style=social)](https://x.com/ndaymnam)
