@@ -7,7 +7,26 @@
 I'm a Computer Science student at Drexel University. Passionate about blockchain protocols, DeFi innovations, AI/ML integrations for crypto, and open-source development in Web3. My work focuses on scalable on-chain solutions, RWAs (Real World Assets), synthetic assets, and programmable private credit to enhance liquidity, determinism, and permissionless finance in DeFi.
 
 Currently architecting decentralized liquidity protocols, oracle networks, and AI-driven blockchain analytics to push the boundaries of crypto infrastructure. (Ex: Co-founder @ Encryptech AI, Avalanche Ambassador, TEDx Speaker on Space Tech)
+<div align="center">
 
+![Orbital ASCII Art Here] <!-- Paste the ASCII -->
+
+[![Naman's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bajpainaman&layout=compact&theme=radical&cache_seconds=3600)](https://github.com/bajpainaman)
+[![Naman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bajpainaman&theme=radical)](https://github.com/bajpainaman)
+[![Naman's Stats](https://github-readme-stats.vercel.app/api?username=bajpainaman&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=3600)](https://github.com/bajpainaman)
+![Visitors](https://komarev.com/ghpvc/?username=bajpainaman&color=radical&label=Visitors)
+
+![Snake](https://github.com/bajpainaman/bajpainaman/blob/output/github-snake.svg) <!-- After Action runs -->
+
+[![Skills](https://icoziv.com/api/v1/badge?skills=Solidity,Rust,Go,TypeScript,Python,Avalanche,Foundry,Llama3&theme=radical&style=flat-square)](https://icoziv.com)
+
+![Joke](https://readme-jokes.vercel.app/api)
+
+[![Web3](https://img.shields.io/badge/Web3-Orbital%20Launches-ff69b4?style=for-the-badge&logo=ethereum)](https://github.com/bajpainaman/orbital)
+[![DeFi](https://img.shields.io/badge/DeFi-Hyperspherical%20AMM-00d2ff?style=for-the-badge&logo=uniswap)](https://github.com/bajpainaman/Avalytics)
+[![AI](https://img.shields.io/badge/AI-Llama%20on%20Chain-ff1493?style=for-the-badge&logo=openai)](https://github.com/bajpainaman/delphic)
+
+</div>
 
 
 ## Skills
