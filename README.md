@@ -8,10 +8,11 @@ I'm a Computer Science student at Drexel University. Passionate about blockchain
 
 Currently architecting decentralized liquidity protocols, oracle networks, and AI-driven blockchain analytics to push the boundaries of crypto infrastructure. (Ex: Co-founder @ Encryptech AI, Avalanche Ambassador, TEDx Speaker on Space Tech)
 
-[![Naman's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bajpainaman&layout=compact&theme=transparent&cache_seconds=604800)](https://github.com/bajpainaman)
-
-[![Naman's Stats](https://github-readme-stats.vercel.app/api?username=bajpainaman&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&cache_seconds=604800)](https://github.com/bajpainaman)
-
+[![Solidity](https://img.shields.io/badge/Solidity-40E0D0?style=flat-square&logo=solidity&logoColor=black)](https://docs.soliditylang.org)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=DEA584)](https://www.rust-lang.org)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 
 ## Skills
 - **Languages:** Solidity, Rust, Go, TypeScript, Python, C++, Java
