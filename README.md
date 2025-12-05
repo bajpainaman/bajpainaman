@@ -8,12 +8,7 @@ I'm a Computer Science student at Drexel University. Passionate about blockchain
 
 Currently architecting decentralized liquidity protocols, oracle networks, and AI-driven blockchain analytics to push the boundaries of crypto infrastructure. (Ex: Co-founder @ Encryptech AI, Avalanche Ambassador, TEDx Speaker on Space Tech)
 
-<div align="center">
-[![Naman's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bajpainaman&layout=compact&theme=radical&cache_seconds=3600)](https://github.com/bajpainaman)
-[![Naman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bajpainaman&theme=radical)](https://github.com/bajpainaman)
-[![Naman's Stats](https://github-readme-stats.vercel.app/api?username=bajpainaman&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&cache_seconds=3600)](https://github.com/bajpainaman)
-![Visitors](https://komarev.com/ghpvc/?username=bajpainaman&color=radical&label=Visitors)
-</div>
+
 
 ## Skills
 - **Languages:** Solidity, Rust, Go, TypeScript, Python, C++, Java
