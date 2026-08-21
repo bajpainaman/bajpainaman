@@ -5,10 +5,7 @@ https://github.com/user-attachments/assets/fc0e0fb6-556c-4bd1-a242-e840f58a9fa2
 
 
 
-I'm a Computer Science student at Drexel University. Passionate about blockchain protocols, DeFi innovations, AI/ML integrations for crypto, and open-source development in Web3. My work focuses on scalable on-chain solutions, RWAs (Real World Assets), synthetic assets, and programmable private credit to enhance liquidity, determinism, and permissionless finance in DeFi.
-
-Currently architecting decentralized liquidity protocols, oracle networks, and AI-driven blockchain analytics to push the boundaries of crypto infrastructure. (Ex: Co-founder @ Encryptech AI, Avalanche Ambassador, TEDx Speaker on Space Tech)
-
+CTO@ETO
 [![Solidity](https://img.shields.io/badge/Solidity-40E0D0?style=flat-square&logo=solidity&logoColor=black)](https://docs.soliditylang.org)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=DEA584)](https://www.rust-lang.org)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
@@ -29,13 +26,6 @@ Here are some of my key open-source crypto projects:
   ![Stars](https://img.shields.io/github/stars/bajpainaman/orbital?style=flat-square) ![Forks](https://img.shields.io/github/forks/bajpainaman/orbital?style=flat-square)  
   [Live Demo](https://orbital.eto.xyz) <!-- Add if deployed -->
 
-- **[Avalytics](https://github.com/bajpainaman/Avalytics)**  
-  AI-driven blockchain CRM platform for Avalanche ecosystem growth intelligence ("Palantir for Crypto"). Transforms on-chain data into actionable BD insights with AI wallet profiling (Llama 3.1), ML cohort clustering (K-Means, GMM), lead scoring, and auto-sync to Monday.com/Clay/Salesforce. Features query-to-lead pipelines, behavioral analysis, and anomaly detection for VCs, DeFi protocols, and security teams.  
-  ![Stars](https://img.shields.io/github/stars/bajpainaman/Avalytics?style=flat-square) ![Forks](https://img.shields.io/github/forks/bajpainaman/Avalytics?style=flat-square)
-
-- **[delphic](https://github.com/bajpainaman/delphic)**  
-  Revolutionary oracle protocol bridging Web2 APIs to Web3 with secure, verifiable data feeds. Supports custom API setups, TEE-protected keys, stake-based security, dispute resolution, and off-chain storage (IPFS/Arweave). Built for DeFi price feeds, gaming data, and enterprise verification on Base L2 for low fees and multi-node consensus.  
-  ![Stars](https://img.shields.io/github/stars/bajpainaman/delphic?style=flat-square) ![Forks](https://img.shields.io/github/forks/bajpainaman/delphic?style=flat-square)
 
 - **[Nanda-Sdk-Tsc](https://github.com/bajpainaman/Nanda-Sdk-Tsc)**  
   TypeScript SDK for advanced blockchain integrations, enabling seamless interaction with decentralized protocols. Supports custom API endpoints, real-time data streaming, and secure transaction handling for DeFi and Web3 applications, with plans for multi-chain compatibility.  
