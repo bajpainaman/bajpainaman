@@ -1,7 +1,9 @@
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
-  <img alt="Naman Bajpai. Co-founder and CTO of The Singularity. Markets, systems, and machine intelligence." src="assets/hero-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="assets/hero-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.webp">
+  <img alt="Naman Bajpai. Co-founder and CTO of The Singularity. Markets, systems, and machine intelligence." src="assets/hero-light.webp" width="100%">
 </picture>
 </p>
 
@@ -99,6 +101,8 @@ My work here spans **OneBook** for order management, routing, and execution; **H
 </p>
 
 <picture>
+  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="assets/wall-dark.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/wall-light.png">
   <source media="(prefers-color-scheme: dark)" srcset="assets/wall-dark.webp">
   <img alt="" src="assets/wall-light.webp" width="100%">
 </picture>
