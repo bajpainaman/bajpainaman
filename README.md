@@ -18,8 +18,6 @@ I am the co-founder and CTO of **[The Singularity](https://github.com/0xTheSingu
 
 My work spans exchange infrastructure, GPU computing, distributed systems, compilers, and applied machine learning.
 
-https://github.com/user-attachments/assets/fc0e0fb6-556c-4bd1-a242-e840f58a9fa2
-
 ## Building The Singularity
 
 We are building the **Everything Exchange**: a common system for trading across centralized exchanges and on-chain markets.
